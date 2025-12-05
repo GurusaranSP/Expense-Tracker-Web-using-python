@@ -4,12 +4,11 @@
 ###  Expense Tracker Web App (Flask + SQLite)*  
 
 
-```markdown
 #  Expenses & Savings Tracker — Local Web App (Python + Flask + SQLite)
 
 I'm *Guru Saran Satsangi Peddinti*, and this is my *Local Web-Based Expense & Savings Tracker* — designed to stay private, fast, and fully offline.
 
-Unlike cloud-based trackers that send your personal finance data across servers, this app keeps everything *stored locally inside SQLite*, with a clean and lightweight browser UI powered by Flask.
+Unlike cloud-based trackers that send your personal finance data across servers, this app keeps everything *stored locally inside SQLite*, with a clean and lightweight browser UI powered by Flask.*
 
 Your money.  
 Your data.  
@@ -42,5 +41,6 @@ Your machine.
 - SQLite (local storage)
 - Chart.js (browser charts)
 - Water.css (simple styling)
+
 
 
