@@ -5,7 +5,7 @@
 
 
 ```markdown
-# 🌐 Expenses & Savings Tracker — Local Web App (Python + Flask + SQLite)
+#  Expenses & Savings Tracker — Local Web App (Python + Flask + SQLite)
 
 I'm *Guru Saran Satsangi Peddinti*, and this is my *Local Web-Based Expense & Savings Tracker* — designed to stay private, fast, and fully offline.
 
@@ -42,4 +42,5 @@ Your machine.
 - SQLite (local storage)
 - Chart.js (browser charts)
 - Water.css (simple styling)
+
 
